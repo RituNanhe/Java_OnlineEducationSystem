@@ -1,0 +1,1 @@
+The Online Education System project is a web application developed using Java and Spring Boot, featuring a secure login system and a detailed contact page. The application is designed to provide streamlined access and communication for users, ensuring an efficient and user-friendly online learning environment.
